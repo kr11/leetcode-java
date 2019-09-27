@@ -1,4 +1,4 @@
-package medium;
+package leetcode.medium;
 
 /**
  * 先用最简单的做法试试看，暴力解法

@@ -1,4 +1,4 @@
-package medium;
+package leetcode.medium;
 
 /**
  * 2019-08-12 18:19:24

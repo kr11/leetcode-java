@@ -1,4 +1,4 @@
-package medium;
+package leetcode.medium;
 
 /**
  * 更好的解法：假设最左最右是a<b，距离l。面积为min(a,b) * l

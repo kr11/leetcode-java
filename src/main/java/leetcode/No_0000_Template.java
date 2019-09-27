@@ -1,9 +1,11 @@
-package medium;
+package leetcode;
+
+import java.util.*;
 
 /**
  * TODO Time
  */
-public class No_0019_RemoveNthNode {
+public class No_0000_Template {
 
   public static String func(String str) {
     return "0";

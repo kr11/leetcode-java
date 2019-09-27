@@ -1,8 +1,8 @@
-package medium;
+package leetcode.medium;
 
 import java.util.Arrays;
 
-public class ALiInterview {
+public class Interview1 {
 
   public static int[] getMinInt(int num) {
     if (num <= 0) {

@@ -1,6 +1,6 @@
-package medium;
+package leetcode.medium;
 
-public class TestDemo {
+public class Interview2 {
 
 
 
@@ -117,7 +117,7 @@ public class TestDemo {
     int[] datas5 = {2, 2,2,2,5,6,7};
     int result = 0 ;
 
-    TestDemo d1 = new TestDemo() ;
+    Interview2 d1 = new Interview2() ;
     result = d1.demo1(datas5) ;
     System.out.println((result == -1)? "数组为空或者不符合规范" : ((result == -2) ? "数组中不存在重复值":"重复的第一个数字是："+ result) );
 

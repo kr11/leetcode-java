@@ -1,4 +1,4 @@
-package medium;
+package leetcode.medium;
 
 /**
  * 优雅的解法，也是从中心向两边拓展，但是比我的那个好很多
